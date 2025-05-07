@@ -12,9 +12,6 @@ var x; // Declare x
 
 
 
-\\
-
-
 
 
 
