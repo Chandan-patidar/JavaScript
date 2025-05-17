@@ -3,6 +3,7 @@
 x = 5; // Assign 5 to x
 
 
+
 elem = document.getElementById("demo");      // Find an element
 
 
